@@ -132,4 +132,3 @@ $ docker export fd15 > test2.tar
 ```
 $ docker import test1.tar  yanlongma/ubuntu:20171030
 ```
-
