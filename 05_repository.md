@@ -19,9 +19,9 @@
 
 国内的镜像市场非常多，比较知名的有下面这些：
 
-[阿里云：https://dev.aliyun.com/search.html](https://dev.aliyun.com/search.html)
-[时速云：https://hub.tenxcloud.com](https://hub.tenxcloud.com)
-[网易蜂巢：https://c.163.com](https://c.163.com)
+[阿里云：https://dev.aliyun.com/search.html](https://dev.aliyun.com/search.html)<br>
+[时速云：https://hub.tenxcloud.com](https://hub.tenxcloud.com)<br>
+[网易蜂巢：https://c.163.com](https://c.163.com)<br>
 [DaoCloud：https://www.daocloud.io](https://www.daocloud.io)
 
 不会翻墙的可以优先考虑使用国内镜像。
