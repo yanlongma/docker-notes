@@ -100,9 +100,3 @@ d9ee6660b48f        wordpress:latest    "docker-entrypoint..."   5 seconds ago  
 在浏览器中访问 `http://localhost:8080/` 会进入 wordpress 安装程序，安装完成后进入容器 db，你会发现数据表确实被写在该容器中。
 
 注：如提示数据库连接错误，先进入 db 容器新建数据库，如默认名为 wordpress。
-
----
-> 本文为博主学习笔记，首发于[马燕龙个人博客](http://www.mayanlong.com/archives/2017/497.html "马燕龙个人博客")，欢迎分享，转载请标明出处。
-> 马燕龙个人博客：[http://www.mayanlong.com](http://www.mayanlong.com "马燕龙个人博客")
-> 马燕龙个人微博：[http://weibo.com/imayanlong](http://weibo.com/imayanlong "马燕龙个人微博")
-> 马燕龙Github主页：[https://github.com/yanlongma](https://github.com/yanlongma "马燕龙Github主页")
