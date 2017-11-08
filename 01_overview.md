@@ -26,7 +26,7 @@ Docker 容器除了运行其中的应用外，基本不消耗额外的系统资�
 	<tr><td>性能</td><td>接近原生</td><td>较弱</td></tr>
 	<tr><td>内存代价</td><td>很小</td><td>较多</td></tr>
 	<tr><td>硬盘使用</td><td>一般为MB</td><td>一般为GB</td></tr>
-	<tr><td>运行密度</td><td>单击支持上千个容器</td><td>一般几十个</td></tr>
+	<tr><td>运行密度</td><td>单机支持上千个容器</td><td>一般几十个</td></tr>
 	<tr><td>隔离性</td><td>安全隔离</td><td>完全隔离</td></tr>
 	<tr><td>迁移性</td><td>优秀</td><td>一般</td></tr>
 </table>
