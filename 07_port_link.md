@@ -95,6 +95,7 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 d9ee6660b48f        wordpress:latest    "docker-entrypoint..."   5 seconds ago       Up 4 seconds        0.0.0.0:8080->80/tcp   wp
 35bd73d4d413        mysql:latest        "docker-entrypoint..."   18 minutes ago      Up 18 minutes       3306/tcp               db
 ```
+此时，wp 容器和 db 容器建立了互联关系。
 
 在浏览器中访问 `http://localhost:8080/` 会进入 wordpress 安装程序，安装完成后进入容器 db，你会发现数据表确实被写在该容器中。
 
