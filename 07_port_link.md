@@ -6,8 +6,8 @@
 在实际应用中，经常会碰到需要多个服务组件容器共同协作的情况，这往往需要多个容器之间有能够互相访问到对方的服务。
 
 除了通过网络访问外，Docker 还提供了两个很方便的功能来满足服务访问的基本需求：
-1. 允许映射容器内应用的服务端口到本地宿主主机；
-2. 提供了互联机制实现多个容器间通过容器名来快速访问。
+1. 端口映射：允许映射容器内应用的服务端口到本地宿主主机；
+2. 容器互联：提供了互联机制实现多个容器间通过容器名来快速访问。
 
 
 ## 二、端口映射
@@ -100,3 +100,9 @@ d9ee6660b48f        wordpress:latest    "docker-entrypoint..."   5 seconds ago  
 在浏览器中访问 `http://localhost:8080/` 会进入 wordpress 安装程序，安装完成后进入容器 db，你会发现数据表确实被写在该容器中。
 
 注：如提示数据库连接错误，先进入 db 容器新建数据库，如默认名为 wordpress。
+
+---
+> 本文为博主学习笔记，首发于[马燕龙个人博客](http://www.mayanlong.com/archives/2017/497.html "马燕龙个人博客")，欢迎分享，转载请标明出处。
+> 马燕龙个人博客：[http://www.mayanlong.com](http://www.mayanlong.com "马燕龙个人博客")
+> 马燕龙个人微博：[http://weibo.com/imayanlong](http://weibo.com/imayanlong "马燕龙个人微博")
+> 马燕龙Github主页：[https://github.com/yanlongma](https://github.com/yanlongma "马燕龙Github主页")
