@@ -56,9 +56,3 @@ hello docker!
 
 容器启动成功后，访问 `http://localhost:8080` 即可出现我们设置的 index.html 页面中内容。
 
-
----
-> 本文为博主学习笔记，首发于[马燕龙个人博客](http://www.mayanlong.com/archives/2017/523.html "马燕龙个人博客")，欢迎分享，转载请标明出处。
-> 马燕龙个人博客：[http://www.mayanlong.com](http://www.mayanlong.com "马燕龙个人博客")
-> 马燕龙个人微博：[http://weibo.com/imayanlong](http://weibo.com/imayanlong "马燕龙个人微博")
-> 马燕龙Github主页：[https://github.com/yanlongma](https://github.com/yanlongma "马燕龙Github主页")
