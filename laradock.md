@@ -5,6 +5,11 @@
 
 LaraDock 致力于简化创建开发环境过程，能够帮助我们在 Docker 上快速搭建 PHP 开发环境。 它预装了 Docker 镜像，为我们提供了一站式的开发环境，而不需要再去在本地机器安装 PHP、Nginx、MySQL 以及其他任何开发过程中需要的软件。 
 
+#### 相关资料：
+[LaraDock 官网：http://laradock.io](http://laradock.io)<br>
+[LaraDock Github：https://github.com/LaraDock/laradock](https://github.com/LaraDock/laradock)
+
+
 ## 二、安装
 
 LaraDock 镜像的原理先不介绍，直接进入安装步骤。
