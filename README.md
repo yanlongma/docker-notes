@@ -17,6 +17,8 @@
 
 [8. 使用 Dockerfile 创建镜像](08_dockerfile.md)
 
+[9. 使用 LaraDock 搭建 PHP 开发环境](laradock.md)
+
 
 # 版权声明
 > 本文为博主学习笔记，首发于[马燕龙个人博客](http://www.mayanlong.com "马燕龙个人博客")，欢迎分享，转载请标明出处。<br>
